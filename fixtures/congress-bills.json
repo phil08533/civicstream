@@ -1,0 +1,5 @@
+{"bills":[
+{"congress":119,"type":"HR","number":"1234","title":"Rural Broadband Access Act","originChamber":"House","latestAction":{"actionDate":"2026-09-25","text":"Referred to the House Committee on Energy and Commerce."},"updateDate":"2026-09-26"},
+{"congress":119,"type":"S","number":"567","title":"Artificial Intelligence Transparency Act","originChamber":"Senate","latestAction":{"actionDate":"2026-09-28","text":"Read twice and referred to the Committee on Commerce, Science, and Transportation."},"updateDate":"2026-09-29"},
+{"congress":119,"type":"HJRES","number":"12","title":"Joint resolution providing for congressional disapproval of a rule","originChamber":"House","latestAction":null,"updateDate":"2026-09-27"}
+]}
