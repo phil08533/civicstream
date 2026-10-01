@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "source": "federal-register",
+  "started_at": "2026-10-01T22:45:09.564Z",
+  "finished_at": "2026-10-01T22:45:09.999Z",
+  "status": "success",
+  "fetched": 500,
+  "inserted": 500,
+  "updated": 0
+ }
+]
