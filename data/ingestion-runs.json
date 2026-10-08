@@ -1,6 +1,15 @@
 [
  {
   "source": "federal-register",
+  "started_at": "2026-10-08T22:09:04.319Z",
+  "finished_at": "2026-10-08T22:09:04.570Z",
+  "status": "success",
+  "fetched": 500,
+  "inserted": 0,
+  "updated": 1
+ },
+ {
+  "source": "federal-register",
   "started_at": "2026-10-08T16:34:16.997Z",
   "finished_at": "2026-10-08T16:34:17.333Z",
   "status": "success",
