@@ -15361,11 +15361,11 @@
   "agency_slug": "transportation-department",
   "publication_date": "2026-10-08",
   "effective_date": "2026-10-23",
-  "comment_deadline": null,
+  "comment_deadline": "2026-11-23",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20666/airworthiness-directives-engine-alliance-engines",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20666.pdf",
   "first_seen_at": "2026-10-08T09:05:20.670Z",
-  "updated_at": "2026-10-08T09:05:20.670Z"
+  "updated_at": "2026-10-08T16:34:17.308Z"
  },
  {
   "id": "fr-2026-20664",
@@ -15445,12 +15445,12 @@
   "agency": "Homeland Security Department",
   "agency_slug": "homeland-security-department",
   "publication_date": "2026-10-08",
-  "effective_date": "2026-11-09",
-  "comment_deadline": "2026-12-07",
+  "effective_date": null,
+  "comment_deadline": "2026-11-09",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20660.pdf",
   "first_seen_at": "2026-10-08T09:05:20.670Z",
-  "updated_at": "2026-10-08T09:05:20.670Z"
+  "updated_at": "2026-10-08T16:34:17.308Z"
  },
  {
   "id": "fr-2026-20659",
