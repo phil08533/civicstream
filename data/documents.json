@@ -17401,11 +17401,11 @@
   "agency_slug": "interior-department",
   "publication_date": "2026-10-09",
   "effective_date": null,
-  "comment_deadline": "2026-12-08",
+  "comment_deadline": null,
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20767/notice-of-availability-of-the-proposed-notice-of-sale-for-gulf-of-america-outer-continental-shelf",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/pdf/2026-20767.pdf",
   "first_seen_at": "2026-10-09T09:15:41.341Z",
-  "updated_at": "2026-10-09T09:15:41.341Z"
+  "updated_at": "2026-10-09T16:20:59.985Z"
  },
  {
   "id": "fr-2026-20766",
@@ -17418,11 +17418,11 @@
   "agency_slug": "health-and-human-services-department",
   "publication_date": "2026-10-09",
   "effective_date": null,
-  "comment_deadline": "2027-04-07",
+  "comment_deadline": "2026-12-08",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20766/determination-of-regulatory-review-period-for-purposes-of-patent-extension-monoferric",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/pdf/2026-20766.pdf",
   "first_seen_at": "2026-10-09T09:15:41.341Z",
-  "updated_at": "2026-10-09T09:15:41.341Z"
+  "updated_at": "2026-10-09T16:20:59.985Z"
  },
  {
   "id": "fr-2026-20765",
@@ -18166,11 +18166,11 @@
   "agency_slug": "transportation-department",
   "publication_date": "2026-10-09",
   "effective_date": "2026-10-26",
-  "comment_deadline": null,
+  "comment_deadline": "2026-11-23",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20722/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/pdf/2026-20722.pdf",
   "first_seen_at": "2026-10-09T09:15:41.341Z",
-  "updated_at": "2026-10-09T09:15:41.341Z"
+  "updated_at": "2026-10-09T16:20:59.985Z"
  },
  {
   "id": "fr-2026-20721",
