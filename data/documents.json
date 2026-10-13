@@ -18625,11 +18625,11 @@
   "agency_slug": "interior-department",
   "publication_date": "2026-10-13",
   "effective_date": null,
-  "comment_deadline": "2026-12-14",
+  "comment_deadline": null,
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20892/notice-of-availability-of-the-proposed-notice-of-sale-for-the-cook-inlet-outer-continental-shelf-oil",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20892.pdf",
   "first_seen_at": "2026-10-10T08:35:30.994Z",
-  "updated_at": "2026-10-10T08:35:30.994Z"
+  "updated_at": "2026-10-13T17:38:06.188Z"
  },
  {
   "id": "fr-2026-20890",
@@ -19798,11 +19798,11 @@
   "agency_slug": "transportation-department",
   "publication_date": "2026-10-13",
   "effective_date": "2026-10-14",
-  "comment_deadline": null,
+  "comment_deadline": "2026-11-27",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20818/airworthiness-directives-elixir-aircraft",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20818.pdf",
   "first_seen_at": "2026-10-10T08:35:30.994Z",
-  "updated_at": "2026-10-10T08:35:30.994Z"
+  "updated_at": "2026-10-13T17:38:06.188Z"
  },
  {
   "id": "fr-2026-20817",
