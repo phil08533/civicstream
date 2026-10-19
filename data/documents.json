@@ -20308,11 +20308,11 @@
   "agency_slug": "nuclear-regulatory-commission",
   "publication_date": "2026-10-14",
   "effective_date": "2026-12-28",
-  "comment_deadline": null,
+  "comment_deadline": "2026-11-13",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-21030.pdf",
   "first_seen_at": "2026-10-14T07:43:54.057Z",
-  "updated_at": "2026-10-19T17:31:57.014Z"
+  "updated_at": "2026-10-19T22:25:48.899Z"
  },
  {
   "id": "fr-2026-21024",
@@ -26156,11 +26156,11 @@
   "agency_slug": "commodity-futures-trading-commission",
   "publication_date": "2026-10-19",
   "effective_date": "2026-10-19",
-  "comment_deadline": null,
+  "comment_deadline": "2026-11-18",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21376/further-definition-of-swap-to-exclude-casino-style-gambling-products",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21376.pdf",
   "first_seen_at": "2026-10-17T10:52:08.951Z",
-  "updated_at": "2026-10-17T10:52:08.951Z"
+  "updated_at": "2026-10-19T22:25:48.899Z"
  },
  {
   "id": "fr-2026-21375",
@@ -26631,12 +26631,12 @@
   "agency": "Federal Communications Commission",
   "agency_slug": "federal-communications-commission",
   "publication_date": "2026-10-19",
-  "effective_date": "2026-11-18",
-  "comment_deadline": "2026-12-03",
+  "effective_date": null,
+  "comment_deadline": "2026-11-18",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21347/modernizing-the-commissions-national-environmental-policy-act-rules",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21347.pdf",
   "first_seen_at": "2026-10-17T10:52:08.951Z",
-  "updated_at": "2026-10-17T10:52:08.951Z"
+  "updated_at": "2026-10-19T22:25:48.899Z"
  },
  {
   "id": "fr-2026-21346",
@@ -27074,11 +27074,11 @@
   "agency_slug": "federal-communications-commission",
   "publication_date": "2026-10-19",
   "effective_date": null,
-  "comment_deadline": "2026-11-09",
+  "comment_deadline": "2026-10-20",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21321/wireless-telecommunications-bureau-seeks-comment-on-preliminary-cost-catalog-for-upper-c-band",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21321.pdf",
   "first_seen_at": "2026-10-17T10:52:08.951Z",
-  "updated_at": "2026-10-17T10:52:08.951Z"
+  "updated_at": "2026-10-19T22:25:48.899Z"
  },
  {
   "id": "fr-2026-21320",
@@ -27261,11 +27261,11 @@
   "agency_slug": "postal-service",
   "publication_date": "2026-10-19",
   "effective_date": "2026-10-19",
-  "comment_deadline": null,
+  "comment_deadline": "2026-11-18",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21310/customs-requirements-and-payment-procedures-for-certain-customs-charges",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21310.pdf",
   "first_seen_at": "2026-10-17T10:52:08.951Z",
-  "updated_at": "2026-10-17T10:52:08.951Z"
+  "updated_at": "2026-10-19T22:25:48.899Z"
  },
  {
   "id": "fr-2026-21308",
@@ -27754,11 +27754,11 @@
   "agency_slug": "federal-communications-commission",
   "publication_date": "2026-10-19",
   "effective_date": null,
-  "comment_deadline": "2026-11-16",
+  "comment_deadline": "2026-10-26",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21280/wireless-telecommunications-bureau-seeks-comment-on-proposed-rebate-categories-and-amounts-for-radio",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21280.pdf",
   "first_seen_at": "2026-10-17T10:52:08.951Z",
-  "updated_at": "2026-10-17T10:52:08.951Z"
+  "updated_at": "2026-10-19T22:25:48.899Z"
  },
  {
   "id": "fr-2026-21279",
@@ -28076,12 +28076,12 @@
   "agency": "Federal Communications Commission",
   "agency_slug": "federal-communications-commission",
   "publication_date": "2026-10-19",
-  "effective_date": "2026-11-18",
-  "comment_deadline": "2026-12-03",
+  "effective_date": null,
+  "comment_deadline": "2026-11-18",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21260/television-broadcasting-services-des-moines-iowa",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21260.pdf",
   "first_seen_at": "2026-10-17T10:52:08.951Z",
-  "updated_at": "2026-10-17T10:52:08.951Z"
+  "updated_at": "2026-10-19T22:25:48.899Z"
  },
  {
   "id": "fr-2026-21259",
