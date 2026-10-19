@@ -20308,11 +20308,11 @@
   "agency_slug": "nuclear-regulatory-commission",
   "publication_date": "2026-10-14",
   "effective_date": "2026-12-28",
-  "comment_deadline": "2026-11-13",
+  "comment_deadline": null,
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-21030.pdf",
   "first_seen_at": "2026-10-14T07:43:54.057Z",
-  "updated_at": "2026-10-14T07:43:54.057Z"
+  "updated_at": "2026-10-19T17:31:57.014Z"
  },
  {
   "id": "fr-2026-21024",
