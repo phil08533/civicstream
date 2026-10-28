@@ -36440,12 +36440,12 @@
   "agency": "Agriculture Department, Rural Business-Cooperative Service",
   "agency_slug": "agriculture-department",
   "publication_date": "2026-10-27",
-  "effective_date": "2027-10-01",
-  "comment_deadline": "2026-10-27",
+  "effective_date": null,
+  "comment_deadline": null,
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/27/2026-21858/notice-of-funding-opportunity-for-the-strengthening-processing-for-us-ranchers-spur-guaranteed-loan",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-27/pdf/2026-21858.pdf",
   "first_seen_at": "2026-10-27T06:22:11.737Z",
-  "updated_at": "2026-10-27T06:22:11.737Z"
+  "updated_at": "2026-10-28T18:53:57.324Z"
  },
  {
   "id": "fr-2026-21857",
@@ -36475,11 +36475,11 @@
   "agency_slug": "transportation-department",
   "publication_date": "2026-10-27",
   "effective_date": "2026-11-12",
-  "comment_deadline": null,
+  "comment_deadline": "2026-12-11",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/27/2026-21856/airworthiness-directives-airbus-helicopters",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-27/pdf/2026-21856.pdf",
   "first_seen_at": "2026-10-27T06:22:11.737Z",
-  "updated_at": "2026-10-27T06:22:11.737Z"
+  "updated_at": "2026-10-28T18:53:57.324Z"
  },
  {
   "id": "fr-2026-21855",
@@ -36509,11 +36509,11 @@
   "agency_slug": "transportation-department",
   "publication_date": "2026-10-27",
   "effective_date": "2026-11-12",
-  "comment_deadline": null,
+  "comment_deadline": "2026-12-11",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/27/2026-21854/airworthiness-directives-airbus-helicopters",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-27/pdf/2026-21854.pdf",
   "first_seen_at": "2026-10-27T06:22:11.737Z",
-  "updated_at": "2026-10-27T06:22:11.737Z"
+  "updated_at": "2026-10-28T18:53:57.324Z"
  },
  {
   "id": "fr-2026-21853",
@@ -36645,11 +36645,11 @@
   "agency_slug": "transportation-department",
   "publication_date": "2026-10-27",
   "effective_date": null,
-  "comment_deadline": "2026-10-26",
+  "comment_deadline": null,
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/27/2026-21846/national-emergency-medical-services-advisory-council-notice-of-public-meeting",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-27/pdf/2026-21846.pdf",
   "first_seen_at": "2026-10-27T06:22:11.737Z",
-  "updated_at": "2026-10-27T06:22:11.737Z"
+  "updated_at": "2026-10-28T18:53:57.324Z"
  },
  {
   "id": "fr-2026-21845",
@@ -37358,12 +37358,12 @@
   "agency": "Transportation Department, Federal Aviation Administration",
   "agency_slug": "transportation-department",
   "publication_date": "2026-10-28",
-  "effective_date": "2026-09-22",
+  "effective_date": "2026-12-24",
   "comment_deadline": null,
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21995/establishment-of-class-e-airspace-ottawa-il-correction",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21995.pdf",
   "first_seen_at": "2026-10-28T13:05:22.328Z",
-  "updated_at": "2026-10-28T13:05:22.328Z"
+  "updated_at": "2026-10-28T18:53:57.324Z"
  },
  {
   "id": "fr-2026-21994",
@@ -37426,12 +37426,12 @@
   "agency": "Transportation Department, Federal Aviation Administration",
   "agency_slug": "transportation-department",
   "publication_date": "2026-10-28",
-  "effective_date": "2026-09-22",
+  "effective_date": "2027-02-18",
   "comment_deadline": null,
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21991/establishment-of-class-e-airspace-dekalb-il-correction",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21991.pdf",
   "first_seen_at": "2026-10-28T13:05:22.328Z",
-  "updated_at": "2026-10-28T13:05:22.328Z"
+  "updated_at": "2026-10-28T18:53:57.324Z"
  },
  {
   "id": "fr-2026-21990",
@@ -38293,12 +38293,12 @@
   "agency": "Library of Congress, Copyright Office, Library of Congress",
   "agency_slug": "library-of-congress",
   "publication_date": "2026-10-28",
-  "effective_date": "2026-12-07",
-  "comment_deadline": "2027-03-22",
+  "effective_date": null,
+  "comment_deadline": "2026-12-07",
   "canonical_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21939/exemptions-to-permit-circumvention-of-access-controls-on-copyrighted-works",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21939.pdf",
   "first_seen_at": "2026-10-28T13:05:22.328Z",
-  "updated_at": "2026-10-28T13:05:22.328Z"
+  "updated_at": "2026-10-28T18:53:57.324Z"
  },
  {
   "id": "fr-2026-21938",
