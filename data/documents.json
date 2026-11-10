@@ -50516,12 +50516,12 @@
   "agency": "Federal Communications Commission",
   "agency_slug": "federal-communications-commission",
   "publication_date": "2026-11-09",
-  "effective_date": null,
-  "comment_deadline": "2026-12-09",
+  "effective_date": "2026-12-09",
+  "comment_deadline": "2026-12-24",
   "canonical_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22833/television-broadcasting-services-odessa-texas",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22833.pdf",
   "first_seen_at": "2026-11-08T18:52:07.877Z",
-  "updated_at": "2026-11-10T04:39:34.175Z"
+  "updated_at": "2026-11-10T20:52:15.970Z"
  },
  {
   "id": "fr-2026-22832",
@@ -50567,12 +50567,12 @@
   "agency": "Transportation Department, Federal Aviation Administration",
   "agency_slug": "transportation-department",
   "publication_date": "2026-11-09",
-  "effective_date": "2027-02-18",
+  "effective_date": "2026-10-30",
   "comment_deadline": null,
   "canonical_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22830/amendment-of-class-d-and-establishment-of-class-e-airspace-chandler-and-phoenix-az",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22830.pdf",
   "first_seen_at": "2026-11-08T18:52:07.877Z",
-  "updated_at": "2026-11-10T04:39:34.175Z"
+  "updated_at": "2026-11-10T20:52:15.970Z"
  },
  {
   "id": "fr-2026-22829",
@@ -51265,11 +51265,11 @@
   "agency_slug": "transportation-department",
   "publication_date": "2026-11-09",
   "effective_date": "2026-11-24",
-  "comment_deadline": "2026-12-24",
+  "comment_deadline": null,
   "canonical_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22785/airworthiness-directives-lycoming-engines",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22785.pdf",
   "first_seen_at": "2026-11-08T18:52:07.877Z",
-  "updated_at": "2026-11-10T04:39:34.175Z"
+  "updated_at": "2026-11-10T20:52:15.970Z"
  },
  {
   "id": "fr-2026-22784",
@@ -53424,11 +53424,11 @@
   "agency_slug": "health-and-human-services-department",
   "publication_date": "2026-11-10",
   "effective_date": "2027-01-11",
-  "comment_deadline": null,
+  "comment_deadline": "2026-12-10",
   "canonical_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22866/color-additive-petition-from-the-international-association-of-color-manufacturers-request-to-amend",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22866.pdf",
   "first_seen_at": "2026-11-10T13:32:43.980Z",
-  "updated_at": "2026-11-10T13:32:43.980Z"
+  "updated_at": "2026-11-10T20:52:15.970Z"
  },
  {
   "id": "fr-2026-22865",
@@ -53441,11 +53441,11 @@
   "agency_slug": "health-and-human-services-department",
   "publication_date": "2026-11-10",
   "effective_date": "2027-01-11",
-  "comment_deadline": null,
+  "comment_deadline": "2026-12-10",
   "canonical_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22865/color-additive-petition-from-environmental-defense-fund-et-al-request-to-amend-the-color-additive",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22865.pdf",
   "first_seen_at": "2026-11-10T13:32:43.980Z",
-  "updated_at": "2026-11-10T13:32:43.980Z"
+  "updated_at": "2026-11-10T20:52:15.970Z"
  },
  {
   "id": "fr-2026-22864",
