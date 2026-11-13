@@ -57248,12 +57248,12 @@
   "agency": "Agriculture Department, Federal Crop Insurance Corporation",
   "agency_slug": "agriculture-department",
   "publication_date": "2026-11-13",
-  "effective_date": "2026-11-13",
-  "comment_deadline": "2021-12-16",
+  "effective_date": null,
+  "comment_deadline": null,
   "canonical_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23123/common-crop-insurance-regulations-apple-crop-insurance-provisions-withdrawal",
   "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23123.pdf",
   "first_seen_at": "2026-11-13T17:48:49.775Z",
-  "updated_at": "2026-11-13T17:48:49.775Z"
+  "updated_at": "2026-11-13T23:38:36.165Z"
  },
  {
   "id": "fr-2026-23122",
